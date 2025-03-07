@@ -1,0 +1,20 @@
+Home Renovation%Full home remodeling including kitchen, bathroom, and flooring.%03/15/2025%5000
+Office Expansion%Expand office space by adding two new rooms and a conference hall.%04/10/2025%12000
+Kitchen Upgrade%Upgrade countertops, cabinets, and lighting fixtures in the kitchen.%02/28/2025%3500
+Bathroom Remodel%Renovate the master bathroom with modern fixtures and tiling.%05/05/2025%4500
+Roof Repair%Fix leaks and replace damaged shingles on the roof.%06/01/2025%3200
+Landscape Design%Create a new landscape design with a patio and garden.%07/20/2025%4000
+Custom Home Build%Construct a custom-designed residential home from the ground up.%12/01/2025%97000
+Interior Redesign%Redesign interior space for better functionality and aesthetics.%09/15/2025%25000
+Deck Installation%Install a wooden deck with railing and stairs in the backyard.%08/05/2025%7499
+Garage Conversion%Convert an existing garage into a livable space or home office.%10/30/2025%15000
+Dock Installation%Construct a private dock for boats and watercraft.%04/15/2025%19999
+Beachfront Villa %Build a luxury villa with ocean views and beach access.%08/10/2025%47500
+Marine Observation%Create an elevated deck for marine wildlife viewing.%05/25/2025%15000
+Underwater Suite%Design and build an underwater suite with ocean-facing windows.%12/01/2025%75000
+Lighthouse Fixing%Restore and modernize an old lighthouse while preserving its history.%06/30/2025%93500
+Seaside Restaurant %Construct a beachfront restaurant with a seafood kitchen and deck seating.%07/20/2025%99000
+Aquarium Installment%Install a large custom-built aquarium for a marine research facility.%09/05/2025%50000
+Coral Conservatory%Develop a facility dedicated to coral reef restoration and research.%10/15/2025%85000
+Yacht Renovation%Redesign and refurbish the interior of a luxury yacht.%03/22/2025%99999
+Deep-Sea Research %Build an advanced deep-sea research facility with modern equipment.%11/10/2025%89999
