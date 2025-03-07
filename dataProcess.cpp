@@ -14,7 +14,7 @@ using namespace std;
 // take data in from .txt and make users from it
 
 void ingestData(vector<User>& companyData , bool write = true) {
-    fstream fileIn("companies.txt");
+    fstream fileIn("dummyData/companies.txt");
     string currUser;
     
     while(getline(fileIn, currUser)) {
@@ -63,7 +63,7 @@ void ingestData(vector<User>& companyData , bool write = true) {
 #pragma region companyFunctions
 
 vector<Job> jobListings(bool write) { 
-    fstream fileIn("job listings.txt");
+    fstream fileIn("dummyData/job listings.txt");
 
     string jobName;  
     string jobDesc;
